@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: dopp1e/metrics@latest
+      - uses: dopp1e/metrics@0.1-1
         with:
           # Your GitHub token
           # The following scopes are required:
