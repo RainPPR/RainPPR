@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-![Metrics](./github-metrics.svg)
+![RainPPR's GitHub stats](https://rainppr-github-readme-stats.vercel.app/api?username=RainPPR&count_private=true&show_icons=true&include_all_commits=true)
 
 <!--
+![Metrics](./github-metrics.svg)
+
 **RainPPR/RainPPR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
