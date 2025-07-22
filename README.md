@@ -2,8 +2,6 @@
 
 ![RainPPR's GitHub stats](https://rainppr-github-readme-stats.vercel.app/api?username=RainPPR&count_private=true&show_icons=true&include_all_commits=true)
 
-![My user statistics](images/userstats.svg)
-
 ### 文化课
 
 [![](https://rainppr-github-readme-stats.vercel.app/api/pin/?username=RaineBlog&repo=whk&show_owner=true)](https://github.com/RaineBlog/whk)
