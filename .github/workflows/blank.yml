@@ -18,6 +18,7 @@ jobs:
     - name: Generate the user stats image
       uses: cicirello/user-statistician@v1
       with:
+        language-repository-exclusions: mkdocs-material, hugo-book
         image-file: images/userstats.svg
         custom-title: My GitHub Statistics
         max-languages: 100
