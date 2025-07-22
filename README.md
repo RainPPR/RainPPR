@@ -10,9 +10,14 @@
 
 ### 程序设计
 
-<center>
-
 [![](https://rainppr-github-readme-stats.vercel.app/api/pin/?username=RaineBlog&repo=blog&show_owner=true)](https://github.com/RaineBlog/blog)
 [![](https://rainppr-github-readme-stats.vercel.app/api/pin/?username=RainPPR&repo=oi-archive&show_owner=true)](https://github.com/RainPPR/oi-archive)
 
-</center>
+### 小项目
+
+[![](https://rainppr-github-readme-stats.vercel.app/api/pin/?username=RainPPR&repo=mujing-json-script&show_owner=true)](https://github.com/RainPPR/mujing-json-script)
+[![](https://rainppr-github-readme-stats.vercel.app/api/pin/?username=RainPPR&repo=mingw-build&show_owner=true)](https://github.com/RainPPR/mingw-build)
+[![](https://rainppr-github-readme-stats.vercel.app/api/pin/?username=RainPPR&repo=smartedu-download&show_owner=true)](https://github.com/RainPPR/smartedu-download)
+[![](https://rainppr-github-readme-stats.vercel.app/api/pin/?username=RaineMtF&repo=trans-luogu&show_owner=true)](https://github.com/RaineMtF/trans-luogu)
+[![](https://rainppr-github-readme-stats.vercel.app/api/pin/?username=RaineMtF&repo=memory&show_owner=true)](https://github.com/RaineMtF/memory)
+[![](https://rainppr-github-readme-stats.vercel.app/api/pin/?username=RaineBlog&repo=mkdocs-script&show_owner=true)](https://github.com/RaineBlog/mkdocs-script)
