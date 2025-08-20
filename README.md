@@ -14,6 +14,8 @@
   <img src="https://rainppr-github-readme-stats.vercel.app/api?username=RainPPR&count_private=true&show_icons=true&include_all_commits=true" />
 </picture>
 
+<br>
+
 <picture>
   <source
     srcset="https://rainppr-github-readme-stats.vercel.app/api/wakatime?username=RainPPR&theme=dark"
