@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 [![wakatime](https://wakatime.com/badge/user/b933bf96-63e5-46e1-a52f-0a2856339f83.svg)](https://wakatime.com/@b933bf96-63e5-46e1-a52f-0a2856339f83)
 
 <center>
 
