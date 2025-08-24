@@ -18,14 +18,14 @@
 
 <picture>
   <source
-    srcset="https://rainppr-github-readme-stats.vercel.app/api/wakatime?username=RainPPR&hide=other&theme=dark"
+    srcset="https://rainppr-github-readme-stats.vercel.app/api/wakatime?username=RainPPR&langs_count=20&hide=other&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://rainppr-github-readme-stats.vercel.app/api/wakatime?username=RainPPR&hide=other"
+    srcset="https://rainppr-github-readme-stats.vercel.app/api/wakatime?username=RainPPR&langs_count=20&hide=other"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://rainppr-github-readme-stats.vercel.app/api/wakatime?username=RainPPR&hide=other" />
+  <img src="https://rainppr-github-readme-stats.vercel.app/api/wakatime?username=RainPPR&langs_count=20&hide=other" />
 </picture>
 
 </center>
