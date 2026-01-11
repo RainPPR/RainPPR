@@ -1,4 +1,4 @@
-## Hi there 👋 [![wakatime](https://wakatime.com/badge/user/b933bf96-63e5-46e1-a52f-0a2856339f83.svg)](https://wakatime.com/@b933bf96-63e5-46e1-a52f-0a2856339f83)
+## Hi thereヾ(*´∀ ˋ*)ﾉ [![wakatime](https://wakatime.com/badge/user/b933bf96-63e5-46e1-a52f-0a2856339f83.svg)](https://wakatime.com/@b933bf96-63e5-46e1-a52f-0a2856339f83) [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35944)](https://codetime.dev)
 
 ### About Me
 
@@ -20,7 +20,7 @@
   <img/>
 </picture>
 
-### Waka Time
+### WakaTime
 
 <picture>
   <source
@@ -38,11 +38,11 @@
 
 <picture>
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=RainPPR&rank=-?&column=-1&margin-w=5&margin-h=5&theme=onedark"
+    srcset="https://github-profile-trophy-flame-alpha.vercel.app/?username=RainPPR&rank=-?&column=-1&margin-w=5&margin-h=5&theme=onedark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=RainPPR&rank=-?&column=-1&margin-w=5&margin-h=5&theme=flat"
+    srcset="https://github-profile-trophy-flame-alpha.vercel.app/?username=RainPPR&rank=-?&column=-1&margin-w=5&margin-h=5&theme=flat"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img/>
