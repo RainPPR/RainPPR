@@ -47,3 +47,8 @@
   />
   <img/>
 </picture>
+
+### 爱发电
+
+入驻爱发电啦～喜欢我的话请我吃棒棒糖 [![afdian- 未认证 RainPPR](https://github.com/user-attachments/assets/83bc65fa-aeb7-4598-81ad-c6f3567bdc6d)](https://afdian.com/a/rainppr)
+
