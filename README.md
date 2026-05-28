@@ -20,6 +20,20 @@
   <img/>
 </picture>
 
+### Activity
+
+<picture>
+  <source
+    srcset="https://wakatime.com/share/@RainPPR/25207431-60d7-42ac-baf1-c36dd91b2e9c.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://wakatime.com/share/@RainPPR/63be38b2-d041-44ec-bc8d-a243d097e366.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img/>
+</picture>
+
 ### WakaTime
 
 <picture>
